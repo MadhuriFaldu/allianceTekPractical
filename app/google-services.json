@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39361450510",
+    "project_id": "alliancetekpractical",
+    "storage_bucket": "alliancetekpractical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39361450510:android:75351cacf9953a20d4625f",
+        "android_client_info": {
+          "package_name": "com.example.alliancetekpractical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39361450510-chcni0dvm4v0cqtk5lia7nvveiro69d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfRLYX8la_OEQdlLg9SdxVdOOXgvd-MQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39361450510-chcni0dvm4v0cqtk5lia7nvveiro69d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
